@@ -1,0 +1,75 @@
+.div {
+    width: 400px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: rgb(123, 203, 240);
+    border-radius: 5%;
+    box-shadow: 0 0 10px rgb(27, 76, 168);
+    font-size: 30px;
+}
+input[type="text"] {
+    width: 400px;
+    padding: 20px;
+    margin: 10px 0px;
+    margin-bottom: 30px;
+    border: 4px blue;
+    border-radius: 5%;
+    box-sizing: border-box;
+}
+input[type="email"] {
+    width: 400px;
+    padding: 20px;
+    margin: 10px 0px;
+    margin-bottom: 30px;
+    border: 4px blue;
+    border-radius: 5%;
+    box-sizing: border-box;
+}
+input[type="password"] {
+    width: 400px;
+    padding: 20px;
+    margin: 10px 0px;
+    margin-bottom: 30px;
+    border: 4px purple;
+    border-radius: 5%;
+    box-sizing: border-box;
+}
+select {
+    width: 400px;
+    padding: 20px;
+    margin: 20px 10px;
+    margin-bottom: 30px;
+    border: 4px green;
+    border-radius: 5%;
+    box-sizing: border-box; 
+}
+button[type="submit"]{
+    width: 400px;
+    padding: 10px;
+    margin: 20px 10px;
+    margin-bottom: 30px;
+    border: 4px rgba(36, 115, 219, 0.836);
+    border-radius: 5%;
+    box-sizing: border-box;
+    background-color: rgb(47, 119, 214);
+    font-size: 15px;
+}
+body{
+    height: 50vh;
+}
+a{
+    color:black;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+label {
+    font-size: 15px;
+}
+h2{
+    font-size: 25px;
+    text-align: center;
+}
+p{
+    font-size: 15px;
+    text-align: center;
+}
